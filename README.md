@@ -39,7 +39,7 @@ Python 3.9 or above installed on your system.
 Basic knowledge of Python and Flask.
 Steps:
 # Clone the repository:
-git clone https://github.com/your-username/brain-stroke-prediction.git
+git clone (https://github.com/Sandeep-Gautam83/Brain-Stroke-Prediction-Project/tree/main/SoftComputing-Project)
 Navigate to the project directory:
 
 cd brain-stroke-prediction
@@ -67,11 +67,12 @@ Achieved 85%-90% accuracy on test data using machine learning models.
 Provides detailed results with graphical insights for better understanding.
 
 # Team Members
-Sandeep Gautam (2023CA83)
-Shishupal Sahu (2023CA90)
-Himanshu Sharma (2023CA44)
-Vinay Dahariya (2023CA112)
+Sandeep Gautam (2023CA83)<br>
+Shishupal Sahu (2023CA90)<br>
+Himanshu Sharma (2023CA44)<br>
+Vinay Dahariya (2023CA112)<br>
 Lokesh Nagoshiya (2023CA58)
+
 
 # Screenshots (Optional)
 Add relevant screenshots of your application to enhance the README.
